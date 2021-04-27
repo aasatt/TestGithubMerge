@@ -16,8 +16,9 @@
 		28BC2F77263790EB0099E16D /* PR1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2F76263790EB0099E16D /* PR1.swift */; };
 		28BC2F7B263791070099E16D /* PR2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2F7A263791070099E16D /* PR2.swift */; };
 		28BC2F802637928F0099E16D /* PR3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2F7F2637928F0099E16D /* PR3.swift */; };
-		28BC2F9626379BB90099E16D /* PR5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2F9526379BB90099E16D /* PR5.swift */; };
 		28BC2F83263792A20099E16D /* PR4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2F82263792A20099E16D /* PR4.swift */; };
+		28BC2F9626379BB90099E16D /* PR5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2F9526379BB90099E16D /* PR5.swift */; };
+		28BC2FA22637A5160099E16D /* P6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BC2FA12637A5160099E16D /* P6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +33,9 @@
 		28BC2F76263790EB0099E16D /* PR1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PR1.swift; sourceTree = "<group>"; };
 		28BC2F7A263791070099E16D /* PR2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PR2.swift; sourceTree = "<group>"; };
 		28BC2F7F2637928F0099E16D /* PR3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PR3.swift; sourceTree = "<group>"; };
-		28BC2F9526379BB90099E16D /* PR5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PR5.swift; sourceTree = "<group>"; };
 		28BC2F82263792A20099E16D /* PR4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PR4.swift; sourceTree = "<group>"; };
+		28BC2F9526379BB90099E16D /* PR5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PR5.swift; sourceTree = "<group>"; };
+		28BC2FA12637A5160099E16D /* P6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		28BC2F5526378D6E0099E16D = {
 			isa = PBXGroup;
 			children = (
+				28BC2FA12637A5160099E16D /* P6.swift */,
 				28BC2F9526379BB90099E16D /* PR5.swift */,
 				28BC2F7F2637928F0099E16D /* PR3.swift */,
 				28BC2F82263792A20099E16D /* PR4.swift */,
@@ -154,6 +157,7 @@
 			files = (
 				28BC2F7B263791070099E16D /* PR2.swift in Sources */,
 				28BC2F802637928F0099E16D /* PR3.swift in Sources */,
+				28BC2FA22637A5160099E16D /* P6.swift in Sources */,
 				28BC2F6626378D6E0099E16D /* ViewController.swift in Sources */,
 				28BC2F9626379BB90099E16D /* PR5.swift in Sources */,
 				28BC2F6226378D6E0099E16D /* AppDelegate.swift in Sources */,
